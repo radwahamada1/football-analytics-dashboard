@@ -17,7 +17,11 @@ Built with **YOLOv8, ByteTrack, Supervision, OpenCV, and Scikit-learn**.
 - 🖥️ **Tactical Dashboard** — Displays match statistics and analytics directly on the processed video.
 
 ---
+## 🎥 Video Demo
 
+[▶️ Watch Football Analytics Demo](./football_analytics_video.mp4)
+
+---
 ## 🛠️ Tech Used
 
 <p align="left">
