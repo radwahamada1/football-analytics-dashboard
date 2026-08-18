@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Video files & Outputs
+*.mp4
+data/video/
+output_videos/
+
+# Model Weights
+*.pt
+
+# Environments & IDEs
+.vscode/
+.idea/
+venv/
+env/
