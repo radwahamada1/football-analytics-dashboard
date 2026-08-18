@@ -1,4 +1,4 @@
-# ⚽ Football Analytics & Tactical Dashboard
+# Football Analytics & Tactical Dashboard
 
 An AI-powered **Football Analytics system** that uses computer vision to analyze football match videos, track players and the ball, identify teams, estimate possession, and generate tactical performance metrics.
 
@@ -6,23 +6,23 @@ Built with **YOLOv8, ByteTrack, Supervision, OpenCV, and Scikit-learn**.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 🏃 **Player Detection & Tracking** — Detects players using YOLOv8 and tracks them with ByteTrack.
-- ⚽ **Ball Tracking & Interpolation** — Tracks the ball and estimates missing positions.
-- 👕 **Team Classification** — Uses K-Means clustering on jersey colors to distinguish teams.
-- 📊 **Possession Analysis** — Assigns the ball to the closest player and estimates team possession.
-- 📐 **Perspective Transformation** — Maps player positions from the camera view to a top-down tactical pitch.
-- ⚡ **Speed & Distance Estimation** — Estimates player movement speed and distance covered.
-- 🖥️ **Tactical Dashboard** — Displays match statistics and analytics directly on the processed video.
+-  **Player Detection & Tracking** — Detects players using YOLOv8 and tracks them with ByteTrack.
+-  **Ball Tracking & Interpolation** — Tracks the ball and estimates missing positions.
+-  **Team Classification** — Uses K-Means clustering on jersey colors to distinguish teams.
+-  **Possession Analysis** — Assigns the ball to the closest player and estimates team possession.
+-  **Perspective Transformation** — Maps player positions from the camera view to a top-down tactical pitch.
+-  **Speed & Distance Estimation** — Estimates player movement speed and distance covered.
+-  **Tactical Dashboard** — Displays match statistics and analytics directly on the processed video.
 
 ---
-## 🎥 Video Demo
+##  Video Demo
 
 [▶️ Watch Football Analytics Demo](./football_analytics_video.mp4)
 
 ---
-## 🛠️ Tech Used
+##  Tech Used
 
 <p align="left">
 
@@ -44,7 +44,7 @@ Built with **YOLOv8, ByteTrack, Supervision, OpenCV, and Scikit-learn**.
 
 </p>
 
-### 🔬 Computer Vision & Analytics
+###  Computer Vision & Analytics
 
 - **YOLOv8** (`ultralytics`) — Object detection
 - **OpenCV** — Video processing and computer vision
@@ -57,7 +57,7 @@ Built with **YOLOv8, ByteTrack, Supervision, OpenCV, and Scikit-learn**.
 - **Tactical Dashboard Overlay** — Real-time match analytics visualization
 ---
 
-## 🧠 Pipeline
+## Pipeline
 
 Football Match Video  
 ↓  
@@ -79,7 +79,7 @@ Tactical Dashboard
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 football_analytics/
 │
@@ -104,7 +104,7 @@ football_analytics/
 
 ---
 
-## ▶️ Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone the repository
 
@@ -132,27 +132,27 @@ output_videos/
 
 ---
 
-## 📊 Analytics
+##  Analytics
 
 The system generates:
 
-- 🏃 Player tracking
-- ⚽ Ball tracking
-- 👕 Team identification
-- 📊 Ball possession
-- ⚡ Player speed
-- 📏 Distance covered
-- 📐 Tactical positioning
+- Player tracking
+- Ball tracking
+- Team identification
+- Ball possession
+- Player speed
+- Distance covered
+- Tactical positioning
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 **Computer Vision · Object Detection · Multi-Object Tracking · K-Means Clustering · Perspective Transformation · Motion Analysis · Sports Analytics**
 
 ---
 
-## 💡 Project Goal
+##  Project Goal
 
 The goal of this project is to demonstrate how **AI and Computer Vision can transform raw football footage into structured tactical and performance insights.**
 
